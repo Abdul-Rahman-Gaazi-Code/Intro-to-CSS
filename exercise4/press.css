@@ -26,3 +26,14 @@ body p {
     letter-spacing: 0.3px;
     font-size: 18px;
 }
+
+p:first-of-type {
+    word-spacing: 2px;
+}
+
+body h2 {
+    font-size: 14px;
+ 
+}
+
+
