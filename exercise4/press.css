@@ -1,39 +1,35 @@
 body {
-background-color: #f5f0eb;
-color: rgb(30, 30, 35);
-font-family: "Source Sans Pro", sans-serif;
+  background-color: #f5f0eb;
+  color: rgb(30, 30, 35);
+  font-family: "Source Sans Pro", sans-serif;
 }
 body h1 {
-    font-family: "Playfair Display", serif;
-    color: hsl(220, 70%, 20%);
-    text-align: center;
-    text-decoration: underline;
-    
+  font-family: "Playfair Display", serif;
+  color: hsl(220, 70%, 20%);
+  text-align: center;
+  text-decoration: underline;
 }
 
 body h2 {
-font-weight: normal;
-text-align: center;
-color: darkgray;
+  font-weight: normal;
+  text-align: center;
+  color: darkgray;
 }
 
 body h3 {
-    color: hsl(220, 40%, 45%);
+  color: hsl(220, 40%, 45%);
 }
 
 body p {
-    line-height: 1.8;
-    letter-spacing: 0.3px;
-    font-size: 18px;
+  line-height: 1.8;
+  letter-spacing: 0.3px;
+  font-size: 18px;
 }
 
 p:first-of-type {
-    word-spacing: 2px;
+  word-spacing: 2px;
 }
 
 body h2 {
-    font-size: 14px;
- 
+  font-size: 14px;
 }
-
-
