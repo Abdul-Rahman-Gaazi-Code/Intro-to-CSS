@@ -10,7 +10,7 @@
 
  1; Color Red; HEX #ff0000, RGB (250, 0, 0), Hsl(0, 100%, 50%)
 
- 2; The A stands for Alpha which controls transparency. Visual difference between rgb(255, 0, 0) and  rgba(255, 0, 0, 0.5) would look like a faded/washed-out red you’d see whatever is behind it bleeding through.
+ 2; The A stands for Alpha which controls transparency. Visual difference between rgb(255, 0, 0) and  rgba(255, 0, 0, 0.5) would look like a faded red you’d see whatever is behind it bleeding through.
 
  3; #000000= rgb(0, 0, 0). Black
     #ffffff= rgb( 255, 255, 255).  White
